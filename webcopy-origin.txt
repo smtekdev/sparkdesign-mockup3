@@ -1,0 +1,324 @@
+Uri: https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvgUE.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs13FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://megaone.acrothemes.com/digital-agency/css/slick-theme.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/digital-agency/css/slick.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\css\slick.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/digital-agency/css/style.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\css\style.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/banner1.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/blog-mokeup.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\blog-mokeup.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/blog-mokup-img-2.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\blog-mokup-img-2.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/blog-mokup-img.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\blog-mokup-img.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/client-1.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\client-1.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/client-2.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\client-2.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/client-3.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\client-3.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/client-4.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\client-4.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/favicon.ico
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/logo-white.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\logo-white.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/logo-yellow.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\logo-yellow.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/pot-2.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\pot-2.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/pot.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\pot.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/standalone.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\standalone.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/team1.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\team1.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/team2.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\team2.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/team3.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\team3.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/test1.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\test1.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/test2.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\test2.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/work1.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\work1.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/work2.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\work2.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/work3.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\work3.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/digital-agency/img/work4.jpg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\img\work4.jpg
+Content Type: image/jpeg
+
+Uri: https://megaone.acrothemes.com/digital-agency/js/script.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\js\script.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/digital-agency/js/slick.min.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/digital-agency/standalone.html
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\digital-agency\standalone.html
+Content Type: text/html
+
+Uri: https://megaone.acrothemes.com/index-digital-agency.html
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\index-digital-agency.html
+Content Type: text/html
+
+Uri: https://megaone.acrothemes.com/vendor/css/bundle.min.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\css\bundle.min.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/vendor/css/cubeportfolio.min.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\css\cubeportfolio.min.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/vendor/css/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/vendor/css/LineIcons.min.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\css\LineIcons.min.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/vendor/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/vendor/css/revolution-settings.min.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\css\revolution-settings.min.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/vendor/css/wow.css
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\css\wow.css
+Content Type: text/css
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/LineIcons.eot?y2l643
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\LineIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/LineIcons.svg?y2l643
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\LineIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/LineIcons.ttf?y2l643
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\LineIcons.ttf
+Content Type: application/octet-stream
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/LineIcons.woff?y2l643
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\LineIcons.woff
+Content Type: font/woff
+
+Uri: https://megaone.acrothemes.com/vendor/fonts/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\fonts\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://megaone.acrothemes.com/vendor/img/cbp-sprite.png
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\img\cbp-sprite.png
+Content Type: image/png
+
+Uri: https://megaone.acrothemes.com/vendor/js/bundle.min.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\bundle.min.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/contact_us.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\contact_us.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/jquery.appear.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/jquery.cubeportfolio.min.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\jquery.cubeportfolio.min.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/parallaxie.min.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\parallaxie.min.js
+Content Type: application/javascript
+
+Uri: https://megaone.acrothemes.com/vendor/js/wow.min.js
+File Name: C:\Downloaded Web Sites\megaone.acrothemes.com\vendor\js\wow.min.js
+Content Type: application/javascript
+
